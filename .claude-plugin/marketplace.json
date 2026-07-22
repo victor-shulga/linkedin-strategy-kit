@@ -1,0 +1,22 @@
+{
+  "name": "linkedin-strategy-kit",
+  "metadata": {
+    "description": "LinkedIn Strategy Kit — a strategy builder + a profile audit, the two-skill foundation of a LinkedIn content system. Set the strategy config, then align the profile to it."
+  },
+  "owner": {
+    "name": "Victor Shulga",
+    "url": "https://github.com/victor-shulga"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-strategy-kit",
+      "source": "./",
+      "description": "Two skills: /strategy builds a 9-section machine-readable LinkedIn strategy in Notion (ICP, voice profile, pillars, offer audit, viral levers, distribution); /profile-audit audits the profile against the 2026 framework + that strategy into concrete rewrites, a banner brief, and a Featured plan.",
+      "version": "0.1.0",
+      "keywords": ["linkedin", "strategy", "profile", "audit", "content", "icp", "notion"],
+      "author": {
+        "name": "Victor Shulga"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "linkedin-strategy-kit",
+  "version": "0.1.0",
+  "description": "Two-skill LinkedIn foundation kit. strategy: build a machine-readable LinkedIn social selling strategy in Notion — goals/KPI, ICP+persona, enemy+signature, content pillars, offer audit, voice profile, viral levers, distribution playbook. profile-audit: audit a LinkedIn profile against the 2026 optimization framework and that strategy, returning per-section rewrites (headline, About, banner brief, Featured plan) as a Topic Authority ranking signal. The setup layer of a LinkedIn content system.",
+  "author": {
+    "name": "Victor Shulga",
+    "url": "https://github.com/victor-shulga"
+  },
+  "keywords": ["linkedin", "strategy", "profile", "audit", "content", "icp", "voice-profile", "notion"],
+  "license": "MIT",
+  "skills": "./skills/"
+}
